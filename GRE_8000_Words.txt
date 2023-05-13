@@ -1893,7 +1893,7 @@ emaciate [i'meiʃieit] v.使„瘦弱；消瘦
 emaciation [i,meiʃi'eiʃən] n.消瘦，衰弱
 emanate ['eməneit] v.发源
 emancipate [i'mænsipeit] v.解放，解除束缚
-embargo [em'bɑ:ɡəu] n.禁运令，封港令
+embargo [ɪmˈbɑː.ɡəʊ] n.禁运令，封港令
 embarrass [im'bærəs] v.使忸怩，使难堪
 embed [im'bed] v.牢牢插入，嵌于
 embellish [im'beliʃ] v.装饰，润饰
